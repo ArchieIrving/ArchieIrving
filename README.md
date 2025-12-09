@@ -34,29 +34,13 @@ Combining **psychology**, **business**, and **data science** allows me to approa
 
 ## 📘 Current & Upcoming Projects
 
-I am currently developing data science projects focused on:
+Current work includes:
 
-- Behavioural and psychological datasets  
-- Statistical modelling & predictive analytics  
-- Visualisation-driven insight reports  
-- Big data workflows (modules + personal projects)
+- **Socioeconomic Classification Analysis** — Using chi-square tests and logistic regression to understand misclassification of socioeconomic class.
+- **AI Policy Evaluation** — Analysing AI governance principles and their societal impact.
+- **Music Modelling Challenge** — Predicting song success and clustering musical styles using open audio feature datasets.
+- **R Visualisation Project** — Building a composite visualisation (4+ charts) with documented R code, theory, and accessibility considerations.
 
-These will be added to my GitHub as they are completed.
-
----
-
-## 🎯 Career Goals
-
-I aim to work in roles such as:
-
-- **Data Scientist**
-- **Behavioural Data Researcher**
-- **Data Analyst (business, marketing, or psychology contexts)**
-- **Research/Data roles bridging human behaviour and computational modelling**
-
-I’m especially motivated by roles that combine **behavioural science**, **modelling**, and **real-world decision-making**.
-
----
 
 ## 🌐 Connect With Me
 
