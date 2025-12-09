@@ -64,6 +64,8 @@ I started programming as a young teenager while running a Minecraft server. This
 
 Over 10+ years, this experience shaped my interest in **marketing psychology, user behaviour, system design, and modelling** — ultimately leading me toward data science.
 
+![Archie's GitHub Stats](https://github-readme-stats-drab-chi.vercel.app/api?username=ArchieIrving&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&hide=issues,contribs)
+
 
 <!--
 **ArchieIrving/ArchieIrving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
